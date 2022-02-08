@@ -1,5 +1,5 @@
 ## Curso completo
-[AQUÍ]()
+[AQUÍ](https://www.youtube.com/watch?v=7WyeLo6HSpc&t=25s&ab_channel=GarajedeIdeas)
 
 # Getting Started with Create React App
 
